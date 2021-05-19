@@ -1,5 +1,5 @@
 let input = prompt("What would you like to do?");
-const todos = ["Practice Guitar!", "Practice French!"];
+const todos = ["Practice Guitar!", "Practice French!", "Drink all the booze!"];
 if (input !== "quit" && input !== "q") {
   if (input === "list") {
     console.log("*****")
